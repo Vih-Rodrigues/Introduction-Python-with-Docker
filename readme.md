@@ -6,7 +6,7 @@
 
 - Open the folder in your preferred editor, like Visual Studio Code.
 
-- Start the Docker image with docker `compose up --build`.
+- Start the Docker image with docker `docker-compose up -d --build`.
 
 - Create your Python files inside the _python_ folder.
 
